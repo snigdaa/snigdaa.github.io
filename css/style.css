@@ -1484,11 +1484,13 @@ a.selected-item:before,
 	margin-top: -50px;
 }
 .footer .icon-wrapper .icon.fb:hover {background: #3b5998;}
+.footer .icon-wrapper .icon.ig:hover {background: #3b5998;}
 .footer .icon-wrapper .icon.tw:hover {background: #55acee;}
 .footer .icon-wrapper .icon.gh:hover {background: #333333;}
 .footer .icon-wrapper .icon.gp:hover {background: #dc4e41;}
 .footer .icon-wrapper .icon.lin:hover {background: #0077b5;}
 .footer .icon-wrapper .icon.pin:hover {background: #bd081c;}
+.footer .icon-wrapper .icon.gh:hover {background: #bd081c;}
 .footer .copyright {
 	border-top: 1px solid #333;
 	padding: 15px 0;
